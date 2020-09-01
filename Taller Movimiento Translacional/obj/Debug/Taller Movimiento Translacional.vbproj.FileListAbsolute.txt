@@ -1,0 +1,12 @@
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\bin\Debug\Taller Movimiento Translacional.exe.config
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\bin\Debug\Taller Movimiento Translacional.exe
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\bin\Debug\Taller Movimiento Translacional.pdb
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\bin\Debug\Taller Movimiento Translacional.xml
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.vbprojAssemblyReference.cache
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller_Movimiento_Translacional.Form1.resources
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller_Movimiento_Translacional.Resources.resources
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.vbproj.GenerateResource.cache
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.vbproj.CoreCompileInputs.cache
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.exe
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.xml
+D:\CAMILO\UNIVERSIDAD\9 Semestre\SIMULACION DE COMPUTADORES\Visual Studio\Taller Movimiento Translacional\Taller Movimiento Translacional\obj\Debug\Taller Movimiento Translacional.pdb
